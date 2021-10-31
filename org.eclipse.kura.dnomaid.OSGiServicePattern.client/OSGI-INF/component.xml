@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" activate="activate" configuration-policy="require" deactivate="deactivate" immediate="true" modified="updated" name="org.eclipse.kura.DNOMAID.OSGiServicePattern.client.ClientService">
+   <implementation class="org.eclipse.kura.dnomaid.OSGiServicePattern.client.ClientService"/>
+   <property name="service.pid" type="String" value="org.eclipse.kura.dnomaid.OSGiServicePattern.client.ClientService"/>
+   <service>
+      <provide interface="org.eclipse.kura.configuration.ConfigurableComponent"/>
+   </service>
+   <reference bind="setMessageService" cardinality="1..1" interface="org.eclipse.kura.dnomaid.OSGiServicePattern.api.Message" name="Message" policy="static" unbind="unsetMessageService"/>
+</scr:component>
