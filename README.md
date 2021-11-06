@@ -1,5 +1,8 @@
 ***
 # KuraOSGiServicePattern
+
+***
+## General Info
 Basic example for modular applications following the typical OSGi service pattern for an Eclipse Kura project.
 ***
 ### Scheme
