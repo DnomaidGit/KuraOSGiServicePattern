@@ -1,6 +1,10 @@
 ***
 # KuraOSGiServicePattern
-This is a simple example of an OSGi Service Pattern project for Eclipse Kura.
+Basic example for modular applications following the typical OSGi service pattern for an Eclipse Kura project.
+***
+<p align="center">
+  <img src="Image/OSGi Service Pattern.jpg" width="256" title="OSGi Service Pattern">
+</p>
 ***
 ## Development Environment
 * Eclipse Neon Version: 2019-09 R (4.13.0). An additional plugin, mToolkit, is needed to allow remote connectivity to an OSGi framework on a Kura-enabled target device. To install mToolkit into Eclipse, use the following steps: 
@@ -25,4 +29,11 @@ installed [Eclipse Kura User Workspace](https://www.eclipse.org/kura/downloads.p
 The binary package ready for the installation can be
 found in folder "**resources/dp**".
 ***
-
+## Links
+Documentation:
+* https://docs.jboss.org/author/display/JBOSGI/Introduction.html
+* http://www.liferaysavvy.com/2017/09/osgi-declarative-services-ds.html
+* https://wiki.eclipse.org/Tutorial:_Building_your_first_OSGi_Remote_Service
+* http://documentation.bosch-si.com/iot/SDK/v8.2/SDK_mBS/common_tasks/eclipse/develop_bundles/runtime_application_development.html
+* https://techblog.smc.it/en/2020-07-31/cosa-sono-osgi-remote-services
+***
