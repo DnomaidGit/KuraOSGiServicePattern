@@ -1,9 +1,10 @@
 ***
 # KuraOSGiServicePattern
 Basic example for modular applications following the typical OSGi service pattern for an Eclipse Kura project.
-
+***
+## Scheme
 <div align="center">
-  <img src="Image/OSGi Service Pattern.jpg" width="256" title="OSGi Service Pattern" </img>
+  <img src="Image/OSGi Service Pattern.jpg" width="356" title="OSGi Service Pattern" </img>
 </div>
 ***
 ## Development Environment
