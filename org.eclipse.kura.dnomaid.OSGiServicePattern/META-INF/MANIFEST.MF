@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGiServicePattern
+Bundle-SymbolicName: org.eclipse.kura.dnomaid.OSGiServicePattern
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: org.eclipse.kura.dnomaid.OSGiServicePattern
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

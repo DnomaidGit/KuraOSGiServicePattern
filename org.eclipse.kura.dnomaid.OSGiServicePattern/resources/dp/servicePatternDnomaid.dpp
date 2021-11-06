@@ -1,0 +1,34 @@
+#Deployment Plugin Project File
+#Sat Nov 06 14:57:17 CET 2021
+build.ant.name=<.>/resources/dp/servicePatternDnomaid_build.xml
+build.dp.file=<.>/resources/dp/servicePatternDnomaid.dp
+build.location=
+bundles.0.bundle_path=/home/ivan/eclipseGitRepos/KuraOSGiServicePattern/org.eclipse.kura.dnomaid.OSGiServicePattern.api/META-INF/exportPlugins/plugins/org.eclipse.kura.dnomaid.OSGiServicePattern.api_1.0.0.202110311730.jar
+bundles.0.customizer=false
+bundles.0.headers.count=0
+bundles.0.missing=false
+bundles.0.name=bundles/org.eclipse.kura.dnomaid.OSGiServicePattern.api_1.0.0.202110311730.jar
+bundles.0.symbolic_name=org.eclipse.kura.dnomaid.OSGiServicePattern.api;singleton\:\=true
+bundles.0.version=1.0.0.202110311730
+bundles.1.bundle_path=/home/ivan/eclipseGitRepos/KuraOSGiServicePattern/org.eclipse.kura.dnomaid.OSGiServicePattern.api.implementation/META-INF/exportPlugins/plugins/org.eclipse.kura.dnomaid.OSGiServicePattern.api.implementation_1.0.0.202110311732.jar
+bundles.1.customizer=false
+bundles.1.headers.count=0
+bundles.1.missing=false
+bundles.1.name=bundles/org.eclipse.kura.dnomaid.OSGiServicePattern.api.implementation_1.0.0.202110311732.jar
+bundles.1.symbolic_name=org.eclipse.kura.dnomaid.OSGiServicePattern.api.implementation;singleton\:\=true
+bundles.1.version=1.0.0.202110311732
+bundles.2.bundle_path=/home/ivan/eclipseGitRepos/KuraOSGiServicePattern/org.eclipse.kura.dnomaid.OSGiServicePattern.client/META-INF/exportPlugins/plugins/org.eclipse.kura.dnomaid.OSGiServicePattern.client_1.0.0.202110311959.jar
+bundles.2.customizer=false
+bundles.2.headers.count=0
+bundles.2.missing=false
+bundles.2.name=bundles/org.eclipse.kura.dnomaid.OSGiServicePattern.client_1.0.0.202110311959.jar
+bundles.2.symbolic_name=org.eclipse.kura.dnomaid.OSGiServicePattern.client
+bundles.2.version=1.0.0.202110311959
+bundles.count=3
+certificates.count=0
+general.signbundles=false
+headers.other.headers=
+headers.symbolic.name=servicePatternDnomaid
+headers.version=1.0.0
+resources.count=0
+

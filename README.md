@@ -39,4 +39,3 @@ Documentation:
 * https://techblog.smc.it/en/2020-07-31/cosa-sono-osgi-remote-services
 ***
 
-<img src="Image/OSGi Service Pattern.jpg" width="300">
