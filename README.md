@@ -5,7 +5,7 @@
 ## General Info
 Basic example for modular applications following the typical OSGi service pattern for an Eclipse Kura project.
 
-<img src="Image/OSGi Service Pattern.jpg" width="156"</img>
+<img src="Image/OSGi Service Pattern.jpg" width="300">
 ***
 ## Development Environment
 * Eclipse Neon Version: 2019-09 R (4.13.0). An additional plugin, mToolkit, is needed to allow remote connectivity to an OSGi framework on a Kura-enabled target device. To install mToolkit into Eclipse, use the following steps: 
