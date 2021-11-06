@@ -7,7 +7,7 @@ Basic example for modular applications following the typical OSGi service patter
 ***
 ### Scheme
 <div align="center">
-  <img src="Image/OSGi Service Pattern.jpg" width="356" title="OSGi Service Pattern" </img>
+  <img src="Image/OSGi Service Pattern.jpg" width="156"</img>
 </div>
 ***
 ## Development Environment
