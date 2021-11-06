@@ -4,7 +4,7 @@
 ***
 ## General Info
 Basic example for modular applications following the typical OSGi service pattern for an Eclipse Kura project.
-
+![image](https://github.com/DnomaidGit/KuraOSGiServicePattern/blob/master/Image/OSGi%20Service%20Pattern.jpg)
 
 ***
 ## Development Environment
@@ -39,4 +39,4 @@ Documentation:
 * https://techblog.smc.it/en/2020-07-31/cosa-sono-osgi-remote-services
 ***
 
-![]("Image/OSGi Service Pattern.jpg" width="300")
+<img src="Image/OSGi Service Pattern.jpg" width="300">
